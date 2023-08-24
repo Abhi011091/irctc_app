@@ -4,7 +4,7 @@
   <groupId>in.ashokit</groupId>
   <artifactId>Irctc-web-app</artifactId>
   <packaging>war</packaging>
-  <version>1.0-RELEASE</version>
+  <version>1.1-RELEASE</version>
   <name>Irctc-web-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
@@ -34,7 +34,7 @@
      <dependency>
        <groupId>in.ashokit</groupId>
        <artifactId>pwd-utils</artifactId>
-       <version>1.0</version>
+       <version>1.1</version>
      </dependency>
 
      <dependency>
